@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body { background-color: #EFEFEF; }
+
+p, a {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+div.page { width: 100%; }
+
+div.column {
+	width: 70%;
+	padding: 0 15%;
+}
+
+div.container {
+	width: 100%;
+	display: flex;
+	padding: 100px 0;
+}
+
+div.container > div.left { width: 30%; }
+
+div.container > div.right {
+	width: 67%;
+	padding: 0 0 0 3%;
+}
+
+div.container img { width: 100%; }
+
+footer { text-align: center; }
