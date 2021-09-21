@@ -65,8 +65,5 @@
 			</div>
 		</div>
 	</div>
-	<footer>
-		<p>São Paulo - 2021</p>
-	</footer>
 </body>
 </html>

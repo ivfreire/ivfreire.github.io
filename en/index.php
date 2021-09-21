@@ -6,8 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Homepage acadêmica de Ícaro Vaz Freire no Instituto de Física da Universidade de São Paulo.">
 	<title>Ícaro Freire | IF-USP</title>
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/homepage.css">
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="../css/homepage.css">
 </head>
 <body>
 	<div class="page">
@@ -16,7 +16,7 @@
 				<div class="left">
 					<div class="menu">
 						<div class="gadget profile">
-							<div class="picture"><img src="images/profile.jpg" alt="icaro vaz freire"></div>
+							<div class="picture"><img src="../images/profile.jpg" alt="icaro vaz freire"></div>
 							<div class="name"><span>Ícaro Vaz Freire</span></div>
 							<div class="description"><p>Physics BSc student at USP<br>Undergraduate researcher at IAG-USP</p></div>
 						</div>
@@ -65,8 +65,5 @@
 			</div>
 		</div>
 	</div>
-	<footer>
-		<p>São Paulo - 2021</p>
-	</footer>
 </body>
 </html>
