@@ -21,3 +21,14 @@ div.profile div.name span {
 }
 
 div.right > div.gadget { padding-bottom: 40px; }
+
+div.symbols {
+	display: flex;
+	flex-flow: row;
+}
+
+div.symbols img {
+	width: auto;
+	height: 64px;
+	margin-right: 32px;
+}

@@ -23,7 +23,16 @@
 					</div>
 				</div>
 				<div class="right">
-					<div class="gadget projects">
+					<div class="gadget research">
+						<h4>Pesquisa</h4><br>
+						<ul>
+							<li>
+								<p>Análise da qualidade da temperatura da base da nuvem medida com um sensor de baixo custo no infravermelho.</p>
+								<p>Orientador: Profª. Dr. Márcia Akemi Yamasoe</p>
+							</li>
+						</ul>
+					</div>
+					<div class="gadget extracurricular">
 						<h4>Extensão</h4><br>
 						<ul>
 							<li><a href="https://www2.if.usp.br/~hackersp">Hackerspace IFUSP</a></li>
@@ -48,7 +57,8 @@
 						</ul>
 					</div>
 					<div class="gadget symbols">
-
+						<img src="https://sites.usp.br/agorasouifusp/wp-content/uploads/sites/334/2018/01/rsz_logo_ifusp_fundo_claro.png" alt="instituto de fisica">
+						<img src="https://imagens.usp.br/wp-content/uploads/usp-logo-transp.png" alt="instituto de fisica">
 					</div>
 				</div>
 			</div>

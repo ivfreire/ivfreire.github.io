@@ -26,8 +26,8 @@ div.container {
 div.container > div.left { width: 30%; }
 
 div.container > div.right {
-	width: 67%;
-	padding: 0 0 0 3%;
+	width: 65%;
+	padding: 0 0 0 5%;
 }
 
 div.container img { width: 100%; }
