@@ -33,3 +33,14 @@ div.container > div.right {
 div.container img { width: 100%; }
 
 footer { text-align: center; }
+
+@media screen and (max-width: 1200px) {
+	div.column { width: 96%; padding: 0 2%; }
+}
+
+@media screen and (max-width: 624px) {
+	div.column { width: 86%; padding: 0 7%; }
+	div.container { flex-flow: column; padding: 7% 0 0 0; }
+	div.container > div.left { width: 100%; }
+	div.container > div.right { width: 100%; }
+}

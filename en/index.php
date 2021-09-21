@@ -28,7 +28,7 @@
 						<h4>Research</h4><br>
 						<ul>
 							<li>
-								<p>Quality analysis of the temperature measurement of the bottom of clouds in the infrared band using low-cost equipment.</p>
+								<p>Quality analysis of temperature measurements of the bottom of clouds in the infrared band using low-cost equipment.</p>
 								<p>Supervisor: Dr. Márcia Akemi Yamasoe</p>
 							</li>
 						</ul>

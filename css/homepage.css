@@ -24,11 +24,20 @@ div.right > div.gadget { padding-bottom: 40px; }
 
 div.symbols {
 	display: flex;
-	flex-flow: row;
+	flex-flow: row wrap;
 }
 
 div.symbols img {
 	width: auto;
 	height: 64px;
 	margin-right: 32px;
+}
+
+@media screen and (max-width: 624px) {
+	div.symbols img {
+		width: 100%;
+		height: auto;
+		margin-bottom: 32px;
+	}
+	
 }
