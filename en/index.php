@@ -18,29 +18,29 @@
 						<div class="gadget profile">
 							<div class="picture"><img src="images/profile.jpg" alt="icaro vaz freire"></div>
 							<div class="name"><span>Ícaro Vaz Freire</span></div>
-							<div class="description"><p>Bacharelando em Física no IF-USP<br>Bolsista de Iniciação Científica no IAG-USP</p></div>
+							<div class="description"><p>Physics BSc student at USP<br>Undergraduate researcher at IAG-USP</p></div>
 						</div>
-						<a href="en">English</a>
 					</div>
+					<a href="../">Português</a>
 				</div>
 				<div class="right">
 					<div class="gadget research">
-						<h4>Pesquisa</h4><br>
+						<h4>Research</h4><br>
 						<ul>
 							<li>
-								<p>Análise da qualidade da temperatura da base da nuvem medida com um sensor de baixo custo no infravermelho.</p>
-								<p>Orientador: Profª. Dr. Márcia Akemi Yamasoe</p>
+								<p>Quality analysis of the temperature measurement of the bottom of clouds in the infrared band using low-cost equipment.</p>
+								<p>Supervisor: Dr. Márcia Akemi Yamasoe</p>
 							</li>
 						</ul>
 					</div>
 					<div class="gadget extracurricular">
-						<h4>Extensão</h4><br>
+						<h4>Extension activities</h4><br>
 						<ul>
 							<li><a href="https://www2.if.usp.br/~hackersp">Hackerspace IFUSP</a></li>
 						</ul>
 					</div>
 					<div class="gadget external-links">
-						<h4>Links externos</h4><br>
+						<h4>External links</h4><br>
 						<ul>
 							<li><a href="https://github.com/ivfreire">GitHub</a></li>
 							<li><a href="https://ivfreire.github.io">GitHub pages</a></li>
@@ -48,10 +48,10 @@
 						</ul>
 					</div>
 					<div class="gadget contact">
-						<h4>Informações</h4><br>
-						<a href="https://www5.usp.br">Universidade de São Paulo</a><br>
-						<a href="https://portal.if.usp.br/ifusp">Instituto de Física</a><br><br>
-						<p>Rua do Matão, 1371<br>Cidade Universitária - Butantã<br>São Paulo, SP - Brasil</p><br>
+						<h4>Info</h4><br>
+						<a href="https://www5.usp.br">University of São Paulo</a><br>
+						<a href="https://portal.if.usp.br/ifusp">Institute of Physics</a><br><br>
+						<p>Rua do Matão, 1371<br>Cidade Universitária - Butantã<br>São Paulo, SP - Brazil</p><br>
 						<ul>
 							<li><a href="mailto:icarovf@usp.br">icarovf@usp.br</a></li>
 							<li><a href="mailto:icarovf@if.usp.br">icarovf@if.usp.br</a></li>
