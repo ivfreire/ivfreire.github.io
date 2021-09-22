@@ -11,16 +11,15 @@ div.menu > div.gadget {
 
 div.profile div.picture img {
 	width: 100%;
-	border-radius: 5px;
+	box-shadow: #BFBFBF 0 0 20px;
+	border-radius: 15px;
 }
 
 div.profile div.name { padding: 15px 0; }
 
-div.profile div.name span {
-	font-size: 32px;
-}
+div.profile div.name span { font-size: 32px; }
 
-div.right > div.gadget { padding-bottom: 40px; }
+div.right > div.gadget { margin-bottom: 30px; }
 
 div.symbols {
 	display: flex;
@@ -40,4 +39,5 @@ div.symbols img {
 		margin-bottom: 32px;
 	}
 	
+	div.profile div.picture img { width: 100%; }
 }
