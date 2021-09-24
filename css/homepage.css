@@ -15,9 +15,15 @@ div.profile div.picture img {
 	border-radius: 15px;
 }
 
-div.profile div.name { padding: 15px 0; }
+div.profile div.name {
+	text-align: center;
+	padding: 15px 0;
+}
 
-div.profile div.name span { font-size: 32px; }
+div.profile div.name span {
+	font-size: 32px;
+	font-weight: bold;
+}
 
 div.right > div.gadget { margin-bottom: 30px; }
 
