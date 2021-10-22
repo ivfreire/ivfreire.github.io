@@ -18,7 +18,7 @@
 						<div class="gadget profile">
 							<div class="picture"><img src="../images/profile.jpg" alt="icaro vaz freire"></div>
 							<div class="name"><span>Ícaro Vaz Freire</span></div>
-							<div class="description"><p>Physics BSc student at USP<br>Undergraduate researcher at IAG-USP</p></div>
+							<div class="description"><p>Physics BSc student at IF-USP<br>Undergraduate researcher at IAG-USP</p></div>
 						</div>
 					</div>
 					<a href="../">Português</a>
@@ -28,7 +28,7 @@
 						<h4>Research</h4><br>
 						<ul>
 							<li>
-								<p>Quality analysis of temperature measurements of the bottom of clouds in the infrared band using low-cost equipment.</p>
+								<p>Quality analysis of temperature measurements of the bottom of clouds in the infrared band using cost effective equipment.</p>
 								<p>Supervisor: Dr. Márcia Akemi Yamasoe</p>
 							</li>
 						</ul>
