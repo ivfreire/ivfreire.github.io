@@ -23,13 +23,16 @@
 					</div>
 					<a href="../">Português</a>
 				</div>
-				<div class="right">
+				<div class="right"><div class="gadget description">
+						<p>Welcome to my academic homepage! Here you can find some of the work and projects I have contributed to at university during my bachelor's degree.</p>
+					</div>
 					<div class="gadget research">
 						<h4>Research</h4><br>
 						<ul>
 							<li>
+								<p>Undergraduate research project</p>
 								<p>Quality analysis of temperature measurements of the bottom of clouds in the infrared band using cost effective equipment.</p>
-								<p>Supervisor: Dr. Márcia Akemi Yamasoe</p>
+								<p>Dr. Márcia Akemi Yamasoe</p>
 							</li>
 						</ul>
 					</div>

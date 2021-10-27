@@ -5,12 +5,22 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Homepage acadêmica de Ícaro Vaz Freire no Instituto de Física da Universidade de São Paulo.">
-	<title>Ícaro Freire | IF-USP</title>
+	<title>Ícaro Freire | IFUSP</title>
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/homepage.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 </head>
 <body>
 	<div class="page">
+		<nav class="navigation">
+			<div class="column">
+				<ul class="menu">
+					<a href="#"><li>Início</li></a>
+					<a href="archive"><li>Arquivo</li></a>
+				</ul>
+				<a href="en">English</a>
+			</div>
+		</nav>
 		<div class="column">
 			<div class="container">
 				<div class="left">
@@ -18,52 +28,51 @@
 						<div class="gadget profile">
 							<div class="picture"><img src="images/profile.jpg" alt="icaro vaz freire"></div>
 							<div class="name"><span>Ícaro Vaz Freire</span></div>
-							<div class="description"><p>Bacharelando em Física no IF-USP<br>Bolsista de Iniciação Científica no IAG-USP</p></div>
+							<div class="description"><p>Bacharelando em Física no IF-USP.<br>Bolsista de Iniciação Científica no IAG-USP.</p></div>
 						</div>
-						<a href="en">English</a>
+						<div class="gadget socials">
+							<ul class="socials">
+								<li><i class="fas fa-university"></i>Universidade de São Paulo</li>
+								<li><i class="fas fa-map-marker"></i>São Paulo</li>
+								<a href="https://ivfreire.github.io/"><li><i class="fas fa-globe"></i>GitHub pages</li></a>
+								<a href="https://twitter.com/ovfreire"><li><i class="fab fa-twitter"></i>ovfreire</li></a>
+								<a href="https://twitter.com/ovfreire"><li><i class="fab fa-github"></i>ivfreire</li></a>
+								<a href="mailto:ivfreire@usp.br"><li><i class="far fa-envelope"></i>ivfreire@usp.br</li></a>
+								<a href="mailto:icarovf@if.usp.br"><li><i class="far fa-envelope"></i>icarovf@if.usp.br</li></a>
+								<a href="http://lattes.cnpq.br/2108666866605794"><li><i class="fas fa-link"></i>Lattes</li></a>
+							</ul>
+						</div>
 					</div>
 				</div>
 				<div class="right">
-					<div class="gadget research">
-						<h4>Pesquisa</h4><br>
-						<ul>
-							<li>
+					<div class="gadget header">
+						<h1>Bem-vindo!</h1><br>
+						<p>Olá, eu sou Ícaro! Essa é minha página pessoal acadêmica, aqui você poderá encontrar alguns dos meus trabalhos ou projetos que contribui durante a graduação e links externos para minhas redes externas. Sinta-se à vontade para explorar.</p><br>
+						<img src="images/clocksquare.jpg" alt="" srcset="">
+					</div>
+					<div class="gadget activities">
+						<h2>Atividades</h2><br>
+						<div class="holder">
+							<a href=""><div class="activity">
+								<span>Iniciação Ciêntífica</span>
 								<p>Análise da qualidade da temperatura da base da nuvem medida com um sensor de baixo custo no infravermelho.</p>
-								<p>Orientador: Profª. Dr. Márcia Akemi Yamasoe</p>
-							</li>
-						</ul>
-					</div>
-					<div class="gadget extracurricular">
-						<h4>Extensão</h4><br>
-						<ul>
-							<li><a href="https://www2.if.usp.br/~hackersp">Hackerspace IFUSP</a></li>
-						</ul>
-					</div>
-					<div class="gadget external-links">
-						<h4>Links externos</h4><br>
-						<ul>
-							<li><a href="https://github.com/ivfreire">GitHub</a></li>
-							<li><a href="https://ivfreire.github.io">GitHub pages</a></li>
-							<li><a href="http://lattes.cnpq.br/2108666866605794">Lattes</a></li>
-						</ul>
-					</div>
-					<div class="gadget contact">
-						<h4>Informações</h4><br>
-						<a href="https://www5.usp.br">Universidade de São Paulo</a><br>
-						<a href="https://portal.if.usp.br/ifusp">Instituto de Física</a><br><br>
-						<p>Rua do Matão, 1371<br>Cidade Universitária - Butantã<br>São Paulo, SP - Brasil</p><br>
-						<ul>
-							<li><a href="mailto:icarovf@usp.br">icarovf@usp.br</a></li>
-							<li><a href="mailto:icarovf@if.usp.br">icarovf@if.usp.br</a></li>
-						</ul>
-					</div>
-					<div class="gadget symbols">
-						<img src="https://sites.usp.br/agorasouifusp/wp-content/uploads/sites/334/2018/01/rsz_logo_ifusp_fundo_claro.png" alt="instituto de fisica">
-						<img src="https://imagens.usp.br/wp-content/uploads/usp-logo-transp.png" alt="instituto de fisica">
+							</div></a>
+							<a href="https://www2.if.usp.br/~hackersp/"><div class="activity">
+								<span>Extensão Acadêmica</span>
+								<p>Laboratório aberto no Instituto de Física, Hackerspace IFUSP.</p>
+							</div></a>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+		<footer>
+			<div class="column">
+				<div class="bottom-bar">
+					<p>São Paulo - 2021</p>
+				</div>
+			</div>
+		</footer>
 	</div>
 </body>
 </html>
