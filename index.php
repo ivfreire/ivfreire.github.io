@@ -12,15 +12,7 @@
 </head>
 <body>
 	<div class="page">
-		<nav class="navigation">
-			<div class="column">
-				<ul class="menu">
-					<a href="#"><li>Início</li></a>
-					<a href="archive"><li>Arquivo</li></a>
-				</ul>
-				<a href="en">English</a>
-			</div>
-		</nav>
+		<?php include('templates/navbar.php'); ?>
 		<div class="column">
 			<div class="container">
 				<div class="left">
@@ -48,7 +40,8 @@
 					<div class="gadget header">
 						<h1>Bem-vindo!</h1><br>
 						<p>Olá, eu sou Ícaro! Essa é minha página pessoal acadêmica, aqui você poderá encontrar alguns dos meus trabalhos ou projetos que contribui durante a graduação e links externos para minhas redes externas. Sinta-se à vontade para explorar.</p><br>
-						<img src="images/clocksquare.jpg" alt="" srcset="">
+						<img src="images/clocksquare.jpg" alt="praça do relógio">
+						<p>Praça do relógio</p>
 					</div>
 					<div class="gadget activities">
 						<h2>Atividades</h2><br>
@@ -66,13 +59,7 @@
 				</div>
 			</div>
 		</div>
-		<footer>
-			<div class="column">
-				<div class="bottom-bar">
-					<p>São Paulo - 2021</p>
-				</div>
-			</div>
-		</footer>
+		<?php include('templates/footer.php') ?>
 	</div>
 </body>
 </html>
