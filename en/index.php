@@ -21,7 +21,7 @@
 				<div class="left">
 					<div class="menu">
 						<div class="gadget profile">
-							<div class="picture"><img src="images/profile.jpg" alt="icaro vaz freire"></div>
+							<div class="picture"><img src="../images/profile.jpg" alt="icaro vaz freire"></div>
 							<div class="name"><span>Ícaro Vaz Freire</span></div>
 							<div class="description"><p>Physics BSc student at IF-USP.<br>Undergraduate researcher at IAG-USP.</p></div>
 						</div>
@@ -43,7 +43,7 @@
 					<div class="gadget header">
 						<h1>Welcome!</h1><br>
 						<p>Hello there, I am Ícaro. I have created this page to put my work and projects on display. Here, you will find a bunch of stuff I did while in university, from extracurricular activities to research. Feel free to look around.</p><br>
-						<img src="images/clocksquare.jpg" alt="praça do relógio">
+						<img src="../images/clocksquare.jpg" alt="praça do relógio">
 						<p>Clock tower square at USP - <i>"In the cultural universe, the centre is everywhere."</i></p>
 					</div>
 					<div class="gadget activities">
