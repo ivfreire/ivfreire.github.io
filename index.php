@@ -39,7 +39,7 @@
 				<div class="right">
 					<div class="gadget header">
 						<h1>Bem-vindo!</h1><br>
-						<p>Olá, eu sou Ícaro! Essa é minha página pessoal acadêmica, aqui você poderá encontrar alguns dos meus trabalhos ou projetos que contribui durante a graduação e links externos para minhas redes externas. Sinta-se à vontade para explorar.</p><br>
+						<p>Olá, eu sou Ícaro! Essa é minha página acadêmica, aqui você poderá encontrar alguns dos meus trabalhos ou projetos que contribui durante a graduação e links para minhas redes externas. Sinta-se à vontade para explorar.</p><br>
 						<img src="images/clocksquare.jpg" alt="praça do relógio">
 						<p>Praça do relógio</p>
 					</div>

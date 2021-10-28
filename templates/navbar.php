@@ -7,7 +7,7 @@
 				<nav class='navigation'>
 					<div class='column'>
 						<ul class='menu'>
-							<a href='$domain/en'><li>Home</li></a>
+							<a href='$domain'><li>Home</li></a>
 							<a href='$domain/../archive'><li>Archive</li></a>
 						</ul>
 						<a href='$domain/..'>Portuguese</a>
