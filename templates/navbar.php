@@ -10,7 +10,7 @@
 							<a href='$domain'><li>Home</li></a>
 							<a href='$domain/../archive'><li>Archive</li></a>
 						</ul>
-						<a href='$domain/..'>Portuguese</a>
+						<a href='$domain/..'>Português</a>
 					</div>
 				</nav>
 			";

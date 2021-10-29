@@ -36,8 +36,8 @@ nav.navigation ul.menu {
 	list-style-type: none;
 }
 
-nav.navigation ul.menu a { text-decoration: none; color: #000000; }
-nav.navigation ul.menu a:hover { text-decoration: underline; }
+nav.navigation a { text-decoration: none; color: #000000; }
+nav.navigation a:hover { text-decoration: underline; }
 nav.navigation ul.menu li { padding: 0 32px; }
 nav.navigation ul.menu li:first-child { padding-left: 0; }
 
@@ -59,7 +59,9 @@ footer {
 }
 
 @media screen and (max-width: 1200px) {
-	div.column { width: 96%; padding: 0 2%; }
+	div.column { width: 90%; padding: 0 5%; }
+	div.container { padding-top: 5%; }
+	div.container > div.left { width: 35%; }
 }
 
 @media screen and (max-width: 624px) {

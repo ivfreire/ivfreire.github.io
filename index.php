@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Homepage acadêmica de Ícaro Vaz Freire no Instituto de Física da Universidade de São Paulo.">
-	<title>Ícaro Freire | IFUSP</title>
+	<title>Ícaro Freire | IF-USP</title>
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/homepage.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
@@ -41,7 +41,7 @@
 						<h1>Bem-vindo!</h1><br>
 						<p>Olá, eu sou Ícaro! Essa é minha página acadêmica, aqui você poderá encontrar alguns dos meus trabalhos ou projetos que contribui durante a graduação e links para minhas redes externas. Sinta-se à vontade para explorar.</p><br>
 						<img src="images/clocksquare.jpg" alt="praça do relógio">
-						<p>Praça do relógio</p>
+						<p>Praça do relógio - <i>"No universo da cultura o centro está em toda a parte."</i></p>
 					</div>
 					<div class="gadget activities">
 						<h2>Atividades</h2><br>
