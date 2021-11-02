@@ -1,4 +1,6 @@
 <?php
+	include ('templates/locale.php');
+	
 	if (isset($_GET['q'])) $id = $_GET['q'];
 	else exit;
 

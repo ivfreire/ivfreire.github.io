@@ -1,6 +1,4 @@
-<?php
-	$_GET["lang"] = "en";	// Define page language
-?>
+<?php include('../templates/locale.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +13,7 @@
 </head>
 <body>
 	<div class="page">
-		<?php include('../templates/navbar.php'); ?>
+		<?php $_GET['lang'] = 'en'; include('../templates/navbar.php'); ?>
 		<div class="column">
 			<div class="container">
 				<div class="left">
@@ -53,7 +51,7 @@
 								<span>Undergraduate Research</span>
 								<p>Quality analysis of temperature measurements of the bottom of clouds in the infrared band using cost-effective equipment.</p>
 							</div></a>
-							<a href="https://www2.if.usp.br/~hackersp/"><div class="activity">
+							<a href="../project.php?q=hackerspace&lang=en"><div class="activity">
 								<span>Extracurricular Activity</span>
 								<p>Open-source laboratory at the Institute of Physics at USP - Hackerspace IFUSP.</p>
 							</div></a>

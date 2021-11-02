@@ -1,0 +1,1 @@
+<?php if (!isset($_GET['lang'])) $_GET['lang'] = 'pt'; ?>
