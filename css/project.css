@@ -1,0 +1,16 @@
+div.container div.left { width: 30%; }
+div.container div.right { width: 68%; }
+
+div.article div.header img {
+	margin-top: 30px;
+}
+
+div.article a {
+	color: #000000;
+	text-decoration: underline;
+}
+
+@media screen and (max-width: 1200px) {
+	div.container div.left { width: 100%; }
+	div.container div.right { width: 100%; }
+}

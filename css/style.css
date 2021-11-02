@@ -44,6 +44,7 @@ nav.navigation ul.menu li:first-child { padding-left: 0; }
 div.container {
 	width: 100%;
 	display: flex;
+	flex-flow: row wrap;
 	justify-content: space-between;
 	padding: 100px 0;
 }
@@ -51,7 +52,7 @@ div.container {
 div.container > div.left { width: 30%; }
 div.container > div.right { width: 60%; }
 
-div.container img { width: 100%; }
+div.container img { width: 100%; border-radius: 10px; }
 
 footer {
 	padding: 10px 0 50px 0;
