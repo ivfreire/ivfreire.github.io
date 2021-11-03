@@ -38,7 +38,7 @@
 							";
 
 							foreach($project['article'] as $element) {
-								if ($element['type'] == 'text') echo "<p>".$element['text']."</p><br>";
+								if ($element['type'] == 'text') echo $element['text']."<br>";
 								if ($element['type'] == 'image') echo "<img src='projects/".$id."/".$element['src']."' /><p>".$element['description']."</p>";
 							}
 						?>

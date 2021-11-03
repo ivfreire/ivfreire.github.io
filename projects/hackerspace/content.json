@@ -5,19 +5,19 @@
 	"article": [
 		{
 			"type": "text",
-			"text": "Apesar do nome suspeito, hackerspaces não praticam nenhuma atividade ilegal. Hackerspaces são laboratórios abertos que reúnem uma comunidade de pessoas interessadas em ciência, tecnologia, eletrônica e arte digital. São espaços físicos onde essa comunidade pode se encontrar para socializar e colaborar. Os hackerspaces geralmente têm uma temática <i>hacker</i> e <i>open-source</i> que combina muito bem com a proposta inovadora e convergente do espaço."
+			"text": "<p>Apesar do nome suspeito, hackerspaces não praticam nenhuma atividade ilegal. Hackerspaces são laboratórios abertos que reúnem uma comunidade de pessoas interessadas em ciência, tecnologia, eletrônica e arte digital. São espaços físicos onde essa comunidade pode se encontrar para socializar e colaborar. Os hackerspaces geralmente têm uma temática <i>hacker</i> e <i>open-source</i> que combina muito bem com a proposta inovadora e convergente do espaço.</p>"
 		},
 		{
 			"type": "text",
-			"text": "Aqui no Brasil ainda não são tão populares, mas temos alguns como o <a href='https://garoa.net.br/wiki/P%C3%A1gina_principal'>Garoa Hacker Club</a>, no bairro de Pinheiros em São Paulo, e o Hackerspace IFUSP, no Instituto de Física da USP. Uma lista completa dos hackerspaces distribuídos pelo mundo pode ser encontrada em <a href='https://hackerspaces.org/'>hackerspaces.org</a>."
+			"text": "<p>Aqui no Brasil ainda não são tão populares, mas temos alguns como o <a href='https://garoa.net.br/wiki/P%C3%A1gina_principal'>Garoa Hacker Club</a>, no bairro de Pinheiros em São Paulo, e o Hackerspace IFUSP, no Instituto de Física da USP. Uma lista completa dos hackerspaces distribuídos pelo mundo pode ser encontrada em <a href='https://hackerspaces.org/'>hackerspaces.org</a>.</p>"
 		},
 		{
 			"type": "text",
-			"text": "<h2>No Instituto de Física</h2><br>Em 2018, o Prof. Dr. Alexandre Suaide, professor no Instituto de Física da USP, importou ideia de hackerspace da Universidade de Utah, nos Estados Unidos, e inaugurou o primeiro hackerspace da USP no Instituto de Física. No ínicio, o projeto contava apenas com alguns alunos da graduação que usavam o espaço para praticar programação e computação. A proposta de um hackerspace no Instituto de Física era até então inétida, pois nunca houve no Instituto um projeto cujo a proposta era fazer a ponte entre a teoria, do ambiente acadêmico, e a prática."
+			"text": "<h2>No Instituto de Física</h2><br><p>Em 2018, o Prof. Dr. Alexandre Suaide, professor no Instituto de Física da USP, importou ideia de hackerspace da Universidade de Utah, nos Estados Unidos, e inaugurou o primeiro hackerspace da USP no Instituto de Física. No ínicio, o projeto contava apenas com alguns alunos da graduação que usavam o espaço para praticar programação e computação. A proposta de um hackerspace no Instituto de Física era até então inétida, pois nunca houve no Instituto um projeto cujo a proposta era fazer a ponte entre a teoria, do ambiente acadêmico, e a prática.</p>"
 		},
 		{
 			"type": "text",
-			"text": "Saiba mais sobre esse espaço no site oficial do <a href='https://www2.if.usp.br/~hackerp'>Hackerpsace IFUSP</a>."
+			"text": "<p>Saiba mais sobre esse espaço no site oficial do <a href='https://www2.if.usp.br/~hackerp'>Hackerpsace IFUSP</a>.</p>"
 		}
 	]
 }
