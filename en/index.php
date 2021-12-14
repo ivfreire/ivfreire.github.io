@@ -25,8 +25,8 @@
 						</div>
 						<div class="gadget socials">
 							<ul class="socials">
-								<li><i class="fas fa-university"></i>University of São Paulo</li>
-								<li><i class="fas fa-map-marker"></i>São Paulo, Brazil</li>
+								<a href="https://www5.usp.br/#english"><li><i class="fas fa-university"></i>University of São Paulo</li></a>
+								<!-- <li><i class="fas fa-map-marker"></i>São Paulo, Brazil</li> -->
 								<a href="https://ivfreire.github.io/"><li><i class="fas fa-globe"></i>GitHub pages</li></a>
 								<a href="https://twitter.com/ovfreire"><li><i class="fab fa-twitter"></i>ovfreire</li></a>
 								<a href="https://twitter.com/ovfreire"><li><i class="fab fa-github"></i>ivfreire</li></a>
@@ -47,7 +47,7 @@
 					<div class="gadget activities">
 						<h2>Activities</h2><br>
 						<div class="holder">
-							<a href=""><div class="activity">
+							<a href="../project.php?q=lraa&lang=en"><div class="activity">
 								<span>Undergraduate Research</span>
 								<p>Quality analysis of temperature measurements of the bottom of clouds in the infrared band using cost-effective equipment.</p>
 							</div></a>

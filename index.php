@@ -25,8 +25,8 @@
 						</div>
 						<div class="gadget socials">
 							<ul class="socials">
-								<li><i class="fas fa-university"></i>Universidade de São Paulo</li>
-								<li><i class="fas fa-map-marker"></i>São Paulo</li>
+								<a href="https://www5.usp.br/"><li><i class="fas fa-university"></i>Universidade de São Paulo</li></a>
+								<!-- <li><i class="fas fa-map-marker"></i>São Paulo</li> -->
 								<a href="https://ivfreire.github.io/"><li><i class="fas fa-globe"></i>GitHub pages</li></a>
 								<a href="https://twitter.com/ovfreire"><li><i class="fab fa-twitter"></i>ovfreire</li></a>
 								<a href="https://twitter.com/ovfreire"><li><i class="fab fa-github"></i>ivfreire</li></a>
@@ -40,18 +40,18 @@
 				<div class="right">
 					<div class="gadget header">
 						<h1>Bem-vindo!</h1><br>
-						<p>Olá, eu sou Ícaro! Essa é minha página acadêmica, aqui você poderá encontrar alguns dos meus trabalhos ou projetos que contribui durante a graduação e links para minhas redes externas. Sinta-se à vontade para explorar.</p><br>
+						<p>Olá, eu sou Ícaro! Esta é minha página acadêmica, aqui poderá encontrar alguns dos meus trabalhos e projetos para quais eu contribui durante a graduação e links para redes externas. Sinta-se à vontade para explorar.</p><br>
 						<img src="images/clocksquare.jpg" alt="praça do relógio">
 						<p>Praça do relógio - <i>"No universo da cultura o centro está em toda a parte."</i></p>
 					</div>
 					<div class="gadget activities">
 						<h2>Atividades</h2><br>
 						<div class="holder">
-							<a href=""><div class="activity">
+							<a href="#"><div class="activity">
 								<span>Iniciação Ciêntífica</span>
 								<p>Análise da qualidade da temperatura da base da nuvem medida com um sensor de baixo custo no infravermelho.</p>
 							</div></a>
-							<a href="project.php?q=hackerspace"><div class="activity">
+							<a href="#"><div class="activity">
 								<span>Extensão Acadêmica</span>
 								<p>Laboratório aberto no Instituto de Física, Hackerspace IFUSP.</p>
 							</div></a>

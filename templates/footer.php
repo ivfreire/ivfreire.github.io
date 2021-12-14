@@ -3,7 +3,7 @@
 		<footer>
 			<div class='column'>
 				<div class='bottom-bar'>
-					<p>São Paulo - 2021</p>
+					<p>São Paulo - ".date("Y")."</p>
 				</div>
 			</div>
 		</footer>
