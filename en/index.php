@@ -40,7 +40,7 @@
 				<div class="right">
 					<div class="gadget header">
 						<h1>Welcome!</h1><br>
-						<p>Hello there, I am Ícaro. I have created this page to put my work and projects on display. Here, you will find a bunch of stuff I did while in university, from extracurricular activities to research. Feel free to look around.</p><br>
+						<p>Hi. I have created this webpage to put all my work and projects on display. Here, you will find a bunch of stuff I did while in university, from extracurricular activities to research projects. Feel free to look around.</p><br>
 						<img src="../images/clocksquare.jpg" alt="praça do relógio">
 						<p>Clock tower square at USP - <i>"In the cultural universe, the centre is everywhere."</i></p>
 					</div>
