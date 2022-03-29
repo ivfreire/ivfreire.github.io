@@ -40,7 +40,7 @@
 				<div class="right">
 					<div class="gadget header">
 						<h1>Bem-vindo!</h1><br>
-						<p>Esta é minha página acadêmica, aqui você poderá encontrar alguns dos meus trabalhos e projetos para quais eu contribui durante a graduação e links para redes externas. Sinta-se à vontade para explorar.</p><br>
+						<p>Esta é minha página acadêmica, aqui você encontrará alguns trabalhos e projetos para os quais eu contribui durante a graduação e links para minhas redes externas.</p><br>
 						<img src="images/clocksquare.jpg" alt="praça do relógio">
 						<p>Praça do relógio - <i>"No universo da cultura o centro está em toda a parte."</i></p>
 					</div>
@@ -48,12 +48,14 @@
 						<h2>Atividades</h2><br>
 						<div class="holder">
 							<a href="#"><div class="activity">
-								<span>Iniciação Ciêntífica</span>
+								<img src="projects/lraa/header.jpg">
+								<span>Iniciação Científica</span>
 								<p>Análise da qualidade da temperatura da base da nuvem medida com um sensor de baixo custo no infravermelho.</p>
 							</div></a>
 							<a href="#"><div class="activity">
+								<img src="projects/hackerspace/header.jpg">
 								<span>Extensão Acadêmica</span>
-								<p>Laboratório aberto no Instituto de Física, Hackerspace IFUSP.</p>
+								<p>Laboratório no Instituto de Física, Hackerspace IFUSP.</p>
 							</div></a>
 						</div>
 					</div>
