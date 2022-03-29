@@ -52,7 +52,7 @@
 								<span>Iniciação Científica</span>
 								<p>Análise da qualidade da temperatura da base da nuvem medida com um sensor de baixo custo no infravermelho.</p>
 							</div></a>
-							<a href="#"><div class="activity">
+							<a href="https://www2.if.usp.br/~hackersp"><div class="activity">
 								<img src="projects/hackerspace/header.jpg">
 								<span>Extensão Acadêmica</span>
 								<p>Laboratório no Instituto de Física, Hackerspace IFUSP.</p>
