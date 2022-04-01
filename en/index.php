@@ -57,6 +57,76 @@
 							</div></a>
 						</div>
 					</div>
+					<div class="gadget cv">
+						<h2>Curriculum Vitae</h2>
+						<div id="cv">
+							<div class="year">
+								<div class="marker"><span>2001</span></div>
+								<div class="text">
+									<ul>
+										<li><p>September 13 08:44 PM born in Guarulhos</p></li>
+									</ul>
+								</div>
+							</div>
+							<div class="year">
+								<div class="marker"><span>2018</span></div>
+								<div class="text">
+									<ul>
+										<li><p>Awarded bronze medal in the Brazilian Mathematics Olympiads 2017 edition</p></li>
+										<li><p>Awarded in the USP Knowlegde Competition</p></li>
+										<li><p>Graduated from High School</p></li>
+									</ul>
+								</div>
+							</div>
+							<div class="year">
+								<div class="marker"><span>2019</span></div>
+								<div class="text">
+									<ul>
+										<li><p>Accepted into the University of São Paulo to study BSc in Physics and Astronomy</p></li>
+										<li><p>Volunteering at Hackerspace IF-USP</p></li>
+										<li><p>Internship at the Centre for Computing at IF-USP</p></li>
+									</ul>
+								</div>
+							</div>
+							<div class="year">
+								<div class="marker"><span>2021</span></div>
+								<div class="text">
+									<ul>
+										<li><p>Undergraduate Research at the Laboratory of Atmospheric Radiation and Aerossols </p></li>
+										<li><p>Took part into the Latin-American Workshop for Numerical Modelling of Solar Radiation</p></li>
+									</ul>
+								</div>
+							</div>
+							<div class="year">
+								<div class="marker"><span>2022</span></div>
+								<div class="text">
+									<ul>
+										<li><p>2022 Summer school at IF-USP</p></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="gadget inpirations">
+						<h2>People who inspire me</h2>
+						<div class="inspiring">
+							<div>
+								<img src="images/people/alexandra.jpg">
+								<span>Alexandra Elbakyan</span>
+								<p>Scientist</p>
+							</div>
+							<div>
+								<img src="images/people/julian.jpg">
+								<span>Julian Assange</span>
+								<p>Journalist</p>
+							</div>
+							<div>
+								<img src="images/people/jocelyn.jpg">
+								<span>Jocelyn Burnell</span>
+								<p>Astronomer</p>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

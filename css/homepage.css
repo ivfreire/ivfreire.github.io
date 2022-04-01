@@ -1,3 +1,10 @@
+div.right div.gadget {
+	margin-top: 40px;
+	padding-top: 30px;
+	border-top: 1px dashed #bbb;
+}
+div.right div.gadget:first-of-type { margin-top: 0; padding-top: 0; border-top: hidden; }
+
 div.menu {
 	width: 100%;
 	display: flex;
@@ -52,6 +59,50 @@ div.activities div.holder {
 div.activities div.holder a { width: 48%; text-decoration: none; color: black; }
 div.activities div.holder a:hover { text-decoration: underline; }
 div.activities div.holder div.activity span { font-weight: bold; }
+
+div#cv {
+	padding-top: 20px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+div#cv div.year {
+	width: 100%;
+	display: flex;
+	padding: 10px 0;
+}
+
+div#cv div.year div.marker {
+	padding: 0 20px 0 0;
+	font-size: 32px;
+}
+
+div#cv div.year div.text { padding: 7px 0; }
+div#cv div.year div.text ul { list-style-type: none; }
+
+div.inspiring {
+	padding-top: 40px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+div.inspiring div {
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+div.inspiring div img {
+	border-radius: 100%;
+	margin-bottom: 10px;
+}
+
+div.inspiring div span { font-weight: bold; }
+div.inspiring div p { color: rgba(0, 0, 0, 0.5); }
+
 
 @media screen and (max-width: 624px) {
 	div.symbols img {
