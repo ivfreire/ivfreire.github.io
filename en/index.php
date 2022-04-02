@@ -48,10 +48,12 @@
 						<h2>Activities</h2><br>
 						<div class="holder">
 							<a href="../project.php?q=lraa&lang=en"><div class="activity">
+								<img src="../projects/lraa/header.jpg">
 								<span>Undergraduate Research</span>
 								<p>Quality analysis of temperature measurements of the bottom of clouds in the infrared band using cost-effective equipment.</p>
 							</div></a>
 							<a href="../project.php?q=hackerspace&lang=en"><div class="activity">
+								<img src="../projects/hackerspace/header.jpg">
 								<span>Extracurricular Activity</span>
 								<p>Open-source laboratory at the Institute of Physics at USP - Hackerspace IFUSP.</p>
 							</div></a>
