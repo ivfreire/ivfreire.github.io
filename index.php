@@ -83,7 +83,7 @@
 								<div class="marker"><span>2019</span></div>
 								<div class="text">
 									<ul>
-										<li><p>Aceito para cursar Física na Universidade de São Paulo</p></li>
+										<li><p>Aceito na Universidade de São Paulo para cursar Física</p></li>
 										<li><p>Voluntariado no Hackerspace IF-USP</p></li>
 										<li><p>Estágio no Centro de Computação do IF-USP</p></li>
 									</ul>
@@ -133,5 +133,7 @@
 		</div>
 		<?php include('templates/footer.php') ?>
 	</div>
+	<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+	<script src="js/cmd.js"></script>
 </body>
 </html>
