@@ -1,4 +1,7 @@
-<?php include('../templates/locale.php'); ?>
+<?php
+	require_once('templates/locale.php');
+	require_once('code/log_access.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
