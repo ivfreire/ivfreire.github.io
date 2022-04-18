@@ -67,7 +67,7 @@
 								<div class="marker"><span>2001</span></div>
 								<div class="text">
 									<ul>
-										<li><p>13 de setembro às 20:44 nascido em Guarulhos</p></li>
+										<li><p>13 de setembro às 20:44 nascido em Guarulhos, SP.</p></li>
 									</ul>
 								</div>
 							</div>
@@ -75,9 +75,9 @@
 								<div class="marker"><span>2018</span></div>
 								<div class="text">
 									<ul>
-										<li><p>Premiado com medalha de bronze na OBMEP 2017</p></li>
-										<li><p>Premiado pela Competição USP de Conhecimento (CUCo)</p></li>
-										<li><p>Formado no Ensino Médio</p></li>
+										<li><p>Premiado com medalha de bronze na OBMEP 2017.</p></li>
+										<li><p>Premiado pela Competição USP de Conhecimento (CUCo).</p></li>
+										<li><p>Formado no Ensino Médio.</p></li>
 									</ul>
 								</div>
 							</div>
@@ -85,9 +85,9 @@
 								<div class="marker"><span>2019</span></div>
 								<div class="text">
 									<ul>
-										<li><p>Aceito na Universidade de São Paulo para cursar Física</p></li>
-										<li><p>Voluntariado no Hackerspace IF-USP</p></li>
-										<li><p>Estágio no Centro de Computação do IF-USP</p></li>
+										<li><p>Início da graduação em Física na Universidade de São Paulo.</p></li>
+										<li><p>Voluntariado no Hackerspace IF-USP.</p></li>
+										<li><p>Estágio no Centro de Computação do IF-USP.</p></li>
 									</ul>
 								</div>
 							</div>
@@ -95,8 +95,8 @@
 								<div class="marker"><span>2021</span></div>
 								<div class="text">
 									<ul>
-										<li><p>Iniciação Científica no Laboratório de Radiação e Aerossóis Atmosféricos</p></li>
-										<li><p>Participação no Workshop Latinoamericano em Modelagem Numérica de Radiação Solar</p></li>
+										<li><p>Iniciação Científica no Laboratório de Radiação e Aerossóis Atmosféricos.</p></li>
+										<li><p>Participação no Workshop Latinoamericano em Modelagem Numérica de Radiação Solar.</p></li>
 									</ul>
 								</div>
 							</div>
@@ -104,7 +104,7 @@
 								<div class="marker"><span>2022</span></div>
 								<div class="text">
 									<ul>
-										<li><p>Curso de verão do IF-USP 2022</p></li>
+										<li><p>Curso de verão do IF-USP 2022.</p></li>
 									</ul>
 								</div>
 							</div>

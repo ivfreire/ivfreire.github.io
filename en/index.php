@@ -1,5 +1,5 @@
 <?php
-	require_once('templates/locale.php');
+	require_once('../templates/locale.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -41,8 +41,8 @@
 				</div>
 				<div class="right">
 					<div class="gadget header">
-						<h1>Welcome!</h1><br>
-						<p>Hi. I have created this webpage to put all my work and projects on display. Here, you will find a bunch of stuff I did while in university, from extracurricular activities to research projects. Feel free to look around.</p><br>
+						<h1>Hello!</h1><br>
+						<p>I have created this webpage to display all my work and projects. Here, you will find a bunch of stuff I did while in university, from extracurricular activities to research projects. Feel free to look around.</p><br>
 						<img src="../images/clocksquare.jpg" alt="praça do relógio">
 						<p>Clock tower square at USP - <i>"In the cultural universe, the centre is everywhere."</i></p>
 					</div>
@@ -68,7 +68,7 @@
 								<div class="marker"><span>2001</span></div>
 								<div class="text">
 									<ul>
-										<li><p>September 13 08:44 PM born in Guarulhos</p></li>
+										<li><p>September 13 08:44 PM born in Guarulhos, Brazil.</p></li>
 									</ul>
 								</div>
 							</div>
@@ -76,9 +76,9 @@
 								<div class="marker"><span>2018</span></div>
 								<div class="text">
 									<ul>
-										<li><p>Awarded bronze medal in the Brazilian Mathematics Olympiads 2017 edition</p></li>
-										<li><p>Awarded in the USP Knowlegde Competition</p></li>
-										<li><p>Graduated from High School</p></li>
+										<li><p>Awarded bronze medal in the Brazilian Mathematics Olympiads 2017 edition.</p></li>
+										<li><p>Awarded in the USP Knowlegde Competition.</p></li>
+										<li><p>Graduated from High School.</p></li>
 									</ul>
 								</div>
 							</div>
@@ -86,9 +86,9 @@
 								<div class="marker"><span>2019</span></div>
 								<div class="text">
 									<ul>
-										<li><p>Accepted into the University of São Paulo to study BSc in Physics and Astronomy</p></li>
-										<li><p>Volunteering at Hackerspace IF-USP</p></li>
-										<li><p>Internship at the Centre for Computing at IF-USP</p></li>
+										<li><p>Accepted into the University of São Paulo to study BSc in Physics and Astronomy.</p></li>
+										<li><p>Volunteering at Hackerspace IF-USP.</p></li>
+										<li><p>Internship at the Centre for Computing at IF-USP.</p></li>
 									</ul>
 								</div>
 							</div>
@@ -96,8 +96,8 @@
 								<div class="marker"><span>2021</span></div>
 								<div class="text">
 									<ul>
-										<li><p>Undergraduate Research at the Laboratory of Atmospheric Radiation and Aerossols </p></li>
-										<li><p>Took part into the Latin-American Workshop for Numerical Modelling of Solar Radiation</p></li>
+										<li><p>Undergraduate Research at the Laboratory of Atmospheric Radiation and Aerossols.</p></li>
+										<li><p>Took part in the Latin-American Workshop for Numerical Modelling of Solar Radiation.</p></li>
 									</ul>
 								</div>
 							</div>
@@ -105,7 +105,7 @@
 								<div class="marker"><span>2022</span></div>
 								<div class="text">
 									<ul>
-										<li><p>2022 Summer school at IF-USP</p></li>
+										<li><p>2022 Summer school at IF-USP.</p></li>
 									</ul>
 								</div>
 							</div>
