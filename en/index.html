@@ -1,6 +1,3 @@
-<?php
-	require_once('../templates/locale.php');
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +12,14 @@
 </head>
 <body>
 	<div class="page">
-		<?php $_GET['lang'] = 'en'; include('../templates/navbar.php'); ?>
+		<nav class='navigation'>
+			<div class='column'>
+				<ul class='menu'>
+					<a href=''><li>Home</li></a>
+				</ul>
+				<a href='/'>Português</a>
+			</div>
+		</nav>
 		<div class="column">
 			<div class="container">
 				<div class="left">
@@ -27,34 +31,34 @@
 						</div>
 						<div class="gadget socials">
 							<ul class="socials">
-								<a href="https://www5.usp.br/#english"><li><i class="fas fa-university"></i>University of São Paulo</li></a>
-								<!-- <li><i class="fas fa-map-marker"></i>São Paulo, Brazil</li> -->
-								<a href="https://ivfreire.github.io/"><li><i class="fas fa-globe"></i>GitHub pages</li></a>
-								<a href="https://twitter.com/ovfreire"><li><i class="fab fa-twitter"></i>ovfreire</li></a>
+								<a href="https://www5.usp.br/"><li><i class="fas fa-university"></i>University of Sao Paulo</li></a>
+								<a href="https://portal.if.usp.br/"><li><i class="fas fa-atom"></i>Institute of Physics</li></a>
+								<!-- <a href="https://ivfreire.github.io/"><li><i class="fas fa-globe"></i>GitHub pages</li></a> -->
 								<a href="https://github.com/ivfreire"><li><i class="fab fa-github"></i>ivfreire</li></a>
+								<a href="https://twitter.com/ovfreire"><li><i class="fab fa-twitter"></i>ovfreire</li></a>
+								<a href="https://instagram.com/ivfreire"><li><i class="fab fa-instagram"></i>ivfreire</li></a>
 								<a href="mailto:ivfreire@usp.br"><li><i class="far fa-envelope"></i>ivfreire@usp.br</li></a>
-								<a href="mailto:icarovf@if.usp.br"><li><i class="far fa-envelope"></i>icarovf@if.usp.br</li></a>
-								<a href="http://lattes.cnpq.br/2108666866605794"><li><i class="fas fa-link"></i>Lattes Curriculum</li></a>
+								<a href="http://lattes.cnpq.br/2108666866605794"><li><i class="fas fa-link"></i>Lattes</li></a>
 							</ul>
 						</div>
 					</div>
 				</div>
 				<div class="right">
 					<div class="gadget header">
-						<h1>Hello!</h1><br>
-						<p>I have created this webpage to display all my work and projects. Here, you will find a bunch of stuff I did while in university, from extracurricular activities to research projects. Feel free to look around.</p><br>
+						<h1>Hey!</h1><br>
+						<p>Welcome to my place on the internet! Here you will find out about all my works and projects. Also, I have put here some stuff I like and find interesting. Feel free to have a look around!</p><br>
 						<img src="../images/clocksquare.jpg" alt="praça do relógio">
 						<p>Clock tower square at USP - <i>"In the cultural universe, the centre is everywhere."</i></p>
 					</div>
 					<div class="gadget activities">
 						<h2>Activities</h2><br>
 						<div class="holder">
-							<a href="../project.php?q=lraa&lang=en"><div class="activity">
+							<a href=""><div class="activity">
 								<img src="../projects/lraa/header.jpg">
 								<span>Undergraduate Research</span>
 								<p>Quality analysis of temperature measurements of the bottom of clouds in the infrared band using cost-effective equipment.</p>
 							</div></a>
-							<a href="../project.php?q=hackerspace&lang=en"><div class="activity">
+							<a href="https://www2.if.usp.br/~hackersp"><div class="activity">
 								<img src="../projects/hackerspace/header.jpg">
 								<span>Extracurricular Activity</span>
 								<p>Open-source laboratory at the Institute of Physics at USP - Hackerspace IFUSP.</p>
@@ -115,17 +119,17 @@
 						<h2>People who inspire me</h2>
 						<div class="inspiring">
 							<div>
-								<img src="images/people/alexandra.jpg">
+								<img src="../images/people/alexandra.jpg">
 								<span>Alexandra Elbakyan</span>
 								<p>Scientist</p>
 							</div>
 							<div>
-								<img src="images/people/julian.jpg">
+								<img src="../images/people/julian.jpg">
 								<span>Julian Assange</span>
 								<p>Journalist</p>
 							</div>
 							<div>
-								<img src="images/people/jocelyn.jpg">
+								<img src="../images/people/jocelyn.jpg">
 								<span>Jocelyn Burnell</span>
 								<p>Astronomer</p>
 							</div>
@@ -134,7 +138,13 @@
 				</div>
 			</div>
 		</div>
-		<?php include('../templates/footer.php') ?>
+		<footer>
+			<div class='column'>
+				<div class='bottom-bar'>
+					<p>Sao Paulo - 2022</p>
+				</div>
+			</div>
+		</footer>
 	</div>
 </body>
 </html>
