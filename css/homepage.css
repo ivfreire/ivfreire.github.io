@@ -53,10 +53,11 @@ div.header img { border-radius: 10px; }
 
 div.activities div.holder {
 	display: flex;
+	flex-flow: row wrap;
 	justify-content: space-between;
 }
 
-div.activities div.holder a { width: 48%; text-decoration: none; color: black; }
+div.activities div.holder a { margin-bottom: 10px; width: 48%; text-decoration: none; color: black; }
 div.activities div.holder a:hover { text-decoration: underline; }
 div.activities div.holder div.activity span { font-weight: bold; }
 
